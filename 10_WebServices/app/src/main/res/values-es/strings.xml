@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Servicios Web</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="borrar">Borrar</string>
+    <string name="carrera">Carrera</string>
+    <string name="consultar">Consultar</string>
+    <string name="consultar_id">Consultar Id</string>
+    <string name="insertar">Insertar</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Telefono</string>
+    <string name="identificador">No. Control</string>
+</resources>

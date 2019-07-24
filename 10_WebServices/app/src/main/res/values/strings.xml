@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Web Services</string>
+    <string name="identificador">Control No.</string>
+    <string name="actualizar">Update</string>
+    <string name="borrar">Delete</string>
+    <string name="carrera">Carrer</string>
+    <string name="consultar">Consult</string>
+    <string name="consultar_id">Id Consult</string>
+    <string name="insertar">Insert</string>
+    <string name="nombre">Name</string>
+    <string name="telefono">Phone</string>
+</resources>
